@@ -1,0 +1,9 @@
+# Logs and databases #
+*.log
+
+
+#OS geenerated files#
+.Ds_Store
+
+.Trashes
+*.orig
